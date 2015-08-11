@@ -8,4 +8,4 @@ I did this in my fourth week of learning C++ as something to pass the time and f
 
 Feel free to edit the code.
 
-
+I used Notepad++ to edit the code and Visual Studio 2015 Pre to compile it.
